@@ -4,11 +4,11 @@ The code is improved on the code of DHC and DCC.
 
 ## Introduction
 
-| No.  |    Folder Name    | Description                          |
-| :--: | :---------------: | ------------------------------------ |
-|  1   |  DCC_with_Escape  | Code of DCC with escape policy.      |
-|  2   |  DHC_with_Escape  | Code of DHC with escape policy.      |
-|  3   | Generate_Instance | Generate MAPF instances for testing. |
+| No.  |    Folder Name    | Description                 |
+| :--: | :---------------: | --------------------------- |
+|  1   |  DCC_with_Escape  | Generate MAPF study example |
+|  2   |  DHC_with_Escape  |                             |
+|  3   | Generate_instance |                             |
 
 ## Review of DHC and DCC
 
